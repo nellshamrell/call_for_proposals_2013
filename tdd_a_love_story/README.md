@@ -12,7 +12,7 @@ You will walk away from the talk with techniques for maintaining and strengtheni
 
 Nell Shamrell works as a Software Development Engineer for Blue Box Group. She also sits on the advisory board for the University of Washington Certificate in Ruby Programming. She specializes in Ruby, Rails, HAML, and SASS.  Prior to entering the world of software development, she studied and worked in the field of Theatre. The world of Theatre prepared her well for the dynamic world of creating software applications. In both, she strives to create a cohesive and extraordinary experience. In her free time she enjoys practicing the martial art Naginata.
 
-![Profile picture](https://raw.github.com/nellshamrell/call_for_proposals_2013/master/tdd_a_love_story/nell_shamrell.jpg)
+![Profile picture](https://raw.github.com/nellshamrell/call_for_proposals_2013/master/tdd_a_love_story/Nell-Shamrell.jpg)
 
 - [My website](http://www.nellshamrell.com)
 - [My twitter](https://twitter.com/nellshamrell)
